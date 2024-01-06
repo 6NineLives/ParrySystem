@@ -1,0 +1,4 @@
+name: SimpleParry
+version: '1.2'
+main: simpleparrying.simpleparry.SimpleParry
+api-version: '1.20'

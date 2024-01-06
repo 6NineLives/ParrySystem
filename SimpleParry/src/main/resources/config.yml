@@ -1,0 +1,6 @@
+# config.yml
+initialParryWindow: 0.5
+penaltyMultiplier: 0.05
+penaltyResetTime: 1
+tapDuration: 0.2
+blockingDamageReduction: 0.9
